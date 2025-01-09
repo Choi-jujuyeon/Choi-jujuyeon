@@ -1,6 +1,7 @@
 <div>
     <p align='center'>
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Juyeon's%20Github&fontSize=50&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Juyeon's%20Github&fontSize=50&animation=fadeIn&fontAlignY=38" />
+>
     </p>
     <div style="display: flex; justify-content: space-between; margin: 0 auto;">
         <img src="https://github-readme-stats.vercel.app/api?username=Choi-jujuyeon&show_icons=true&theme=radical" alt="Juyeon's GitHub stats" />
